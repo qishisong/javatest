@@ -43,7 +43,6 @@ public class TestReflet{
             System.out.println(")");
         }
 
-        Integer.bitCount()
     }
 }
 
